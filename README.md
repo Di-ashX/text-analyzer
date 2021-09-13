@@ -17,4 +17,4 @@
 # Requirments  
 python3  
 django    
-![alt text](https://github.com/Di-ashX/text-analyzer/blob/master/Screenshot(114).png?raw=true)
+![alt text](https://github.com/Di-ashX/text-analyzer/blob/master/Screenshot (114).png?raw=true)

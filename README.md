@@ -16,4 +16,5 @@
 5)Numbers Remover  
 # Requirments  
 python3  
-django  
+django    
+![alt text](https://github.com/Di-ashX/text-analyzer/blob/master/screenshot(114).png?raw=true)
